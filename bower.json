@@ -1,0 +1,10 @@
+{
+  "name": "source",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "normalize-css": "~3.0.2"
+  },
+  "devDependencies": {}
+}
+
